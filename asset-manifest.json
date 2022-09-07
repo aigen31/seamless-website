@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/seamless-website/static/css/main.a7cd8daa.css",
+    "main.js": "/seamless-website/static/js/main.4b0dc6e1.js",
+    "static/js/787.2d9047b7.chunk.js": "/seamless-website/static/js/787.2d9047b7.chunk.js",
+    "index.html": "/seamless-website/index.html",
+    "main.a7cd8daa.css.map": "/seamless-website/static/css/main.a7cd8daa.css.map",
+    "main.4b0dc6e1.js.map": "/seamless-website/static/js/main.4b0dc6e1.js.map",
+    "787.2d9047b7.chunk.js.map": "/seamless-website/static/js/787.2d9047b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7cd8daa.css",
+    "static/js/main.4b0dc6e1.js"
+  ]
+}
